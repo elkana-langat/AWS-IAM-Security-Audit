@@ -118,8 +118,7 @@ cloud-iam-audit/
 - [ ] Export to CSV / JSON for SIEM integration
 - [ ] IAM policy analysis (detect wildcard or overly broad permissions)
 - [ ] Multi-account scanning via AWS Organizations
-- [ ] CLI argument for custom profile name (`--profile`)
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](https://opensource.org/license/mit) for details.
